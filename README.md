@@ -1,6 +1,8 @@
 # Linkbot-Music
 
-A little project I started in middle school but never fully finished...
+A little project I started in middle school but never got to finish completely...
+
+Click on the .ch file to view the code I currently have.
 
 Todo List:
  - Figure out why the robots would sometimes go out of sync
