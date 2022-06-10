@@ -1,5 +1,7 @@
 # Linkbot-Music
 
+A little project I started in middle school but never fully finished...
+
 Todo List:
  - Figure out why the robots would sometimes go out of sync
     - If not able to, compensate for when it goes out of sync
